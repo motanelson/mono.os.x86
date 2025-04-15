@@ -7,5 +7,5 @@ change wallpaper on startup: feh --bg-fill monoos.png
 
 startup programs autoexec: /home/pi/.config/openbox/autostart
 
-https://mega.nz/file/ZvZgFZaS#haJ5CFAC6PIWlqi8CSQZfgiiNrt8sQ9QjfDm8MneFJY
+https://mega.nz/file/s6pCHYoQ#zsclVKxSYnaqpcaKueMp9oqHrU2KyHk1s_UT1Z-Yq7s
 
