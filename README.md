@@ -9,3 +9,4 @@ startup programs autoexec: /home/pi/.config/openbox/autostart
 
 https://mega.nz/file/s6pCHYoQ#zsclVKxSYnaqpcaKueMp9oqHrU2KyHk1s_UT1Z-Yq7s
 
+
